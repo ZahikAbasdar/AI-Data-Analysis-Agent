@@ -190,6 +190,7 @@ streamlit run travel_agent.py
 *Speech-in, speech-out agents using real-time voice APIs.*
 
 *   [🗣️ AI Audio Tour Agent](voice_ai_agents/ai_audio_tour_agent/)
+*   [🌐 AnveVoice](https://anvevoice.app) - Voice AI agent for websites with agentic DOM actions — navigates pages, fills forms, clicks buttons autonomously. 50+ languages, <700ms latency, one-line embed.
 *   [📞 Customer Support Voice Agent](voice_ai_agents/customer_support_voice_agent/)
 *   [🔊 Voice RAG Agent (OpenAI SDK)](voice_ai_agents/voice_rag_openaisdk/)
 *   [🎙️ OpenSource Voice Dictation Agent (Wispr Flow clone)](https://github.com/akshayaggarwal99/jarvis-ai-assistant) <sub>↗ external</sub>
