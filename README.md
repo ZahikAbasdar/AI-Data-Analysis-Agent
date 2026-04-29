@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shubhamsaboo/">
+  <a href="https://www.linkedin.com/in/zahik-abas-2646572a4/">
     <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/Saboo_Shubham_">
+  <a href="https://leetcode.com/u/ZahikAbas">
     <img src="https://img.shields.io/badge/Follow%20on%20𝕏-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter">
   </a>
 </p>
