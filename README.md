@@ -78,7 +78,7 @@ You shouldn't have to rebuild the same RAG pipeline, agent loop, or MCP integrat
 Run your first agent in **30 seconds**:
 
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+git clone https://github.com/ZahikAbasdar/awesome-llm-apps.git
 cd awesome-llm-apps/starter_ai_agents/ai_travel_agent
 pip install -r requirements.txt
 streamlit run travel_agent.py
