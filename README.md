@@ -8,9 +8,6 @@
   <a href="https://www.linkedin.com/in/zahik-abas-2646572a4/">
     <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://leetcode.com/u/ZahikAbas">
-    <img src="https://t4.ftcdn.net/jpg/07/40/79/77/360_F_740797795_1FYDLhrEGegX7peEL453jibsm9wVyOxA.jpg/>
-  </a>
 </p>
 
 <p align="center">
