@@ -314,8 +314,15 @@ streamlit run travel_agent.py
 </a>
 
 ## ⭐ Star History
+## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Shubhamsaboo/awesome-llm-apps&type=Date)](https://star-history.com/#Shubhamsaboo/awesome-llm-apps&Date)
+<a href="https://www.star-history.com/?repos=ZahikAbasdar%2Fawesome-llm-apps&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ZahikAbasdar/awesome-llm-apps&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ZahikAbasdar/awesome-llm-apps&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ZahikAbasdar/awesome-llm-apps&type=date&legend=top-left" />
+ </picture>
+</a>
 
 > 🌟 **Don't miss future drops - [star the repo](https://github.com/Shubhamsaboo/awesome-llm-apps) to get notified when new templates ship.**
 
