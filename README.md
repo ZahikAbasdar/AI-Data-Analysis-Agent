@@ -93,7 +93,7 @@ streamlit run travel_agent.py
 | [🏠 Home Renovation Agent](advanced_ai_agents/multi_agent_apps/ai_home_renovation_agent) | Photo → AI redesign with Nano Banana Pro | Vision + Multi-agent |
 | [♾️ Self-Improving Agent Skills](awesome_agent_skills/self-improving-agent-skills/) | Automatically optimize agent skills using Gemini and ADK | Agent Skills + ADK |
 
-> 📬 [Subscribe on Unwind AI](https://www.theunwindai.com) to get new template drops + tutorials in your inbox.
+📬 [Follow me on LinkedIn](https://www.linkedin.com/in/zahik-abas-2646572a4/) for AI projects, tech updates, and new drops.
 
 ## 📑 Table of Contents
 
