@@ -307,8 +307,13 @@ streamlit run travel_agent.py
 
 ## 🙏 Built by
 
-<p>Created and maintained by <a href="https://twitter.com/Saboo_Shubham_"><strong>Shubham Saboo</strong></a> with contributions from the amazing community members.</p>
-
+<p>
+  Created and maintained by 
+  <a href="https://www.linkedin.com/in/zahik-abas-2646572a4/">
+    <strong>Zahik Abas</strong>
+  </a> 
+  with contributions from the amazing community members.
+</p>
 <a href="https://github.com/Shubhamsaboo/awesome-llm-apps/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Shubhamsaboo/awesome-llm-apps&max=40&columns=10&anon=0" alt="Top contributors" />
 </a>
